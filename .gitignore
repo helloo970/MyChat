@@ -1,0 +1,16 @@
+# Private data - never upload
+chat.db
+uploads/
+*.env
+.env
+
+# Old backup copies
+alte-version*/
+
+# Old install script (replaced by install-mychat.sh)
+setup-server.sh
+
+# Python cache
+__pycache__/
+*.pyc
+venv/
